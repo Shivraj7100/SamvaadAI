@@ -3,3 +3,4 @@ torch
 transformers
 fastapi
 uvicorn
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
